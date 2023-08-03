@@ -97,8 +97,9 @@ export default {
 .swiper-pagination {
   --swiper-pagination-color: rgb(49, 194, 124);
 }
-.test{
+.test2{
   align-self: baseline;
   text-align: cener;
+  background-color: red;
 }
 </style>
