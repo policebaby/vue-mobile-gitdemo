@@ -51,7 +51,8 @@ export default {
       data: {},
       previousPath: '/',
       hotFix:'',
-      masterTest:''
+      ConflictTestThisIsMainBranch:''
+      masterTe:''
     }
   },
   // 路由导航
