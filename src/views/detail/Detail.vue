@@ -49,7 +49,8 @@ export default {
   data () {
     return {
       data: {},
-      previousPath: '/'
+      previousPath: '/',
+      testgit:'',
     }
   },
   // 路由导航
