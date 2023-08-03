@@ -50,7 +50,7 @@ export default {
     return {
       data: {},
       previousPath: '/',
-      testgit:'',
+      hotFix:'',
     }
   },
   // 路由导航
