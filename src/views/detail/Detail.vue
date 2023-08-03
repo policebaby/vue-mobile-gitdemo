@@ -51,6 +51,7 @@ export default {
       data: {},
       previousPath: '/',
       hotFix:'',
+      masterTest:''
     }
   },
   // 路由导航
