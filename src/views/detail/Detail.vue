@@ -53,7 +53,7 @@ export default {
       hotFix:'',
       ConflictTestThisIsMainBranch:'',
       MAIN:'',
-
+      HOT_FIX:''
     }
   },
   // 路由导航
