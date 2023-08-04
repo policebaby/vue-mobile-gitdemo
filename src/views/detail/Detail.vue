@@ -50,10 +50,7 @@ export default {
     return {
       data: {},
       previousPath: '/',
-      hotFix:'',
-      ConflictTestThisIsMainBranch:'',
-      MAIN:'',
-      HOT_FIX:''
+      ONLYMAIN:''
     }
   },
   // 路由导航
