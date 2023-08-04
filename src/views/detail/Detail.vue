@@ -50,7 +50,8 @@ export default {
     return {
       data: {},
       previousPath: '/',
-      ONLYMAIN:''
+      ONLYMAIN:'',
+      ONLYHOTFIX:''
     }
   },
   // 路由导航
